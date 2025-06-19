@@ -1,10 +1,10 @@
-# Stockflw
+# StockFlw
 
-**Stockflw** allows you to manage all the products in a warehouse quickly and easily, whether you are a small store or a medium-sized business. Even large companies can use this application. It is a simple and intuitive tool that allows you to manage your inventory and keep track of your products.
+**StockFlw** allows you to manage all the products in a warehouse quickly and easily, whether you are a small store or a medium-sized business. Even large companies can use this application. It is a simple and intuitive tool that allows you to manage your inventory and keep track of your products.
 
 ## Features
 
-**Stockflw** allows you:
+**StockFlw** allows you:
 
 - **Manage Products**: Read, create, update, and delete products.
 - **Manage Product Categories**: Read, create, update, and delete product categories.
